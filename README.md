@@ -1,0 +1,2 @@
+# SocialGameObjectDiagrams
+ソーシャルゲームのオブジェクト図を書いていきます
